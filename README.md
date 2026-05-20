@@ -161,6 +161,4 @@ Model2:
 Test Accuracy: 88.27%
 
 Test Loss: 0.3256
-Validation Accuracy
-Test Accuracy
-Loss Curves
+
